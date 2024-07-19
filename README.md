@@ -10,6 +10,6 @@
 1. ***Create Replit Account From [Here](https://replit.com/).***
 2. ***[Deploy on Replit](https://replit.com/github/vihangayt0/Astro-MD-V7-Replit).*** ***[[Tutorial]](https://youtu.be/rMycIWfmVQ4)***
 3. ***Add Bot Website To Uptimer From [Here](https://uptimerobot.com/).***
-
+###deploy on heroku (https://dashboard.heroku.com/apps)-
 
    ```Thanks Fro using Astro-MD```
